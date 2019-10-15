@@ -1,0 +1,25 @@
+<map id="Engine::setTileIDOfNode" name="Engine::setTileIDOfNode">
+<area shape="rect" id="node2" href="$classMap.html#a779c939483a52b32a3959b99af95e67a" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="237,297,401,323"/>
+<area shape="rect" id="node24" href="$classEngine.html#addfc50e21da201426444d8b4a07b3976" title="Engine::demolishNode" alt="" coords="235,398,403,425"/>
+<area shape="rect" id="node3" href="$classMap.html#ab33e202107202756f4e9f196f0037d99" title="Map::checkTileIDIsEmpty" alt="" coords="451,69,638,95"/>
+<area shape="rect" id="node4" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="1119,170,1336,197"/>
+<area shape="rect" id="node7" href="$classMap.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="1627,290,1777,317"/>
+<area shape="rect" id="node12" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="493,373,596,399"/>
+<area shape="rect" id="node13" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="469,423,620,450"/>
+<area shape="rect" id="node15" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="461,271,628,298"/>
+<area shape="rect" id="node23" href="$classMap.html#a0241b997090783e5d13667114731a592" title="Debug MapNodeData to Console Used as Tile&#45;Inspector until we implement a GUI variant. " alt="" coords="451,18,639,45"/>
+<area shape="rect" id="node5" href="$classMap.html#aab37e4a52faf81e9b696b8cf1bd9a690" title="Get neighbor MapNode Objects Stores pointers to the neighboring nodes of the given coordinates in the..." alt="" coords="1409,130,1553,157"/>
+<area shape="rect" id="node6" href="$classMap.html#a0ff55eb041cdf29aa582a21145319ce0" title="Get elevated neighbor positions in a bitmask Checks all neighboring tiles and returns the elevated ne..." alt="" coords="1384,181,1579,223"/>
+<area shape="rect" id="node8" href="$classMap.html#a392940f84796653b8e811ed8dc296c84" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="1387,64,1575,105"/>
+<area shape="rect" id="node9" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="1404,13,1559,39"/>
+<area shape="rect" id="node11" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="1402,322,1561,349"/>
+<area shape="rect" id="node10" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1627,5,1777,47"/>
+<area shape="rect" id="node14" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="695,423,817,450"/>
+<area shape="rect" id="node16" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="687,271,825,298"/>
+<area shape="rect" id="node17" href="$classMap.html#a1197ab65e40dd20b891ba165471e3163" title="Map::Map" alt="" coords="714,322,798,349"/>
+<area shape="rect" id="node18" href="$classMap.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="703,221,809,247"/>
+<area shape="rect" id="node22" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="892,170,1052,197"/>
+<area shape="rect" id="node19" href="$classMapLayers.html#a54ce1eeef2a8998a728ac7074efe8787" title="Enable Drawing Layer Enable Drawing Layer (use bitwise OR to add layer) " alt="" coords="882,221,1062,247"/>
+<area shape="rect" id="node20" href="$classTerrainGenerator.html#adcc251757a1f3a06471a49f17886b8ce" title="TerrainGenerator::generate\lTerrain" alt="" coords="873,272,1071,313"/>
+<area shape="rect" id="node21" href="$classTerrainGenerator.html#ac94cfaeb9dc89453018399361da5174a" title="TerrainGenerator::loadTerrain\lDataFromJSON" alt="" coords="1122,272,1333,313"/>
+</map>

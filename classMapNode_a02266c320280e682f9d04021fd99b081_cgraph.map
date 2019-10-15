@@ -1,0 +1,4 @@
+<map id="MapNode::isPlacableOnSlope" name="MapNode::isPlacableOnSlope">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="268,5,447,47"/>
+<area shape="rect" id="node3" href="$classTileManager.html#a0635992377296446c67c5d41b48e8826" title="TileManager::getTileData" alt="" coords="264,71,451,98"/>
+</map>

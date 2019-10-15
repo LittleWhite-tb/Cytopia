@@ -1,0 +1,4 @@
+<map id="UIManager::scaleCenterButtonImage" name="UIManager::scaleCenterButtonImage">
+<area shape="rect" id="node2" href="$classUIManager.html#a007e9b56a4835b98db2b203df96ea79d" title="Draws the tile (defined by the string, tiledata pair) onto the button. " alt="" coords="273,5,476,47"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="524,13,733,39"/>
+</map>

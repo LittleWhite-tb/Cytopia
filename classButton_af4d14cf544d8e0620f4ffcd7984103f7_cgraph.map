@@ -1,0 +1,6 @@
+<map id="Button::draw" name="Button::draw">
+<area shape="rect" id="node2" href="$classUIElement.html#afa1b8ca68981752ffb5e40e22ee2a946" title="Change the Texture of the button Changes the texture. " alt="" coords="159,31,372,57"/>
+<area shape="rect" id="node5" href="$classUIElement.html#a0a6d27dea5d855c208e9bd9043b7ea62" title="UIElement::renderTexture" alt="" coords="171,81,359,108"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a98725ac250168ebb2fa676dd481ff495" title="Get the button state Get the current mouse button pressed state. " alt="" coords="420,5,616,32"/>
+<area shape="rect" id="node4" href="$classUIElement.html#a4aca28b5f308b875340868697d0cc50c" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="423,56,613,83"/>
+</map>

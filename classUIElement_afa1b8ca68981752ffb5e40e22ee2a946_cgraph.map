@@ -1,0 +1,4 @@
+<map id="UIElement::drawButtonFrame" name="UIElement::drawButtonFrame">
+<area shape="rect" id="node2" href="$classUIElement.html#a98725ac250168ebb2fa676dd481ff495" title="Get the button state Get the current mouse button pressed state. " alt="" coords="267,5,463,32"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a4aca28b5f308b875340868697d0cc50c" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="269,56,460,83"/>
+</map>

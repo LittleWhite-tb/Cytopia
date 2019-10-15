@@ -1,0 +1,6 @@
+<map id="UIElement::drawFrame" name="UIElement::drawFrame">
+<area shape="rect" id="node2" href="$classButton.html#a6b08fa54560842dec2eabed9a93c3103" title="Button::drawImageButtonFrame" alt="" coords="224,5,453,32"/>
+<area shape="rect" id="node4" href="$classFrame.html#af8abf245526132e86ee984601a71267a" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="287,56,390,83"/>
+<area shape="rect" id="node5" href="$classSlider.html#a4a3727f40be79a7cc6543086435b8194" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="289,107,388,133"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="501,5,711,32"/>
+</map>

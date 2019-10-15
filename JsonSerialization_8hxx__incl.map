@@ -1,0 +1,20 @@
+<map id="src/engine/common/JsonSerialization.hxx" name="src/engine/common/JsonSerialization.hxx">
+<area shape="rect" id="node3" href="$point_8hxx.html" title="point.hxx" alt="" coords="5,304,88,331"/>
+<area shape="rect" id="node4" href="$MapNode_8hxx.html" title="GameObjects/MapNode.hxx" alt="" coords="387,155,589,181"/>
+<area shape="rect" id="node17" href="$TerrainGenerator_8hxx.html" title="TerrainGenerator.hxx" alt="" coords="935,80,1094,107"/>
+<area shape="rect" id="node19" href="$Settings_8hxx.html" title="Settings.hxx" alt="" coords="853,229,955,256"/>
+<area shape="rect" id="node26" href="$AudioMixer_8hxx.html" title="../../services/AudioMixer.hxx" alt="" coords="1413,80,1617,107"/>
+<area shape="rect" id="node10" href="$Sprite_8hxx.html" title="../Sprite.hxx" alt="" coords="299,229,399,256"/>
+<area shape="rect" id="node11" href="$enums_8hxx.html" title="common/enums.hxx" alt="" coords="213,304,368,331"/>
+<area shape="rect" id="node13" href="$TileManager_8hxx.html" title="../TileManager.hxx" alt="" coords="576,229,717,256"/>
+<area shape="rect" id="node15" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="577,304,679,331"/>
+<area shape="rect" id="node16" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="755,304,866,331"/>
+<area shape="rect" id="node20" href="$Meta_8hxx.html" title="../../util/Meta.hxx" alt="" coords="1363,379,1493,405"/>
+<area shape="rect" id="node29" href="$Soundtrack_8hxx.html" title="audio/Soundtrack.hxx" alt="" coords="1476,304,1639,331"/>
+<area shape="rect" id="node31" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="1673,155,1823,181"/>
+<area shape="rect" id="node32" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="1587,229,1682,256"/>
+<area shape="rect" id="node39" href="$MessageQueue_8hxx.html" title="util/MessageQueue.hxx" alt="" coords="2185,229,2359,256"/>
+<area shape="rect" id="node44" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="1757,229,1915,256"/>
+<area shape="rect" id="node34" href="$TransitiveModel_8hxx.html" title="util/TransitiveModel.hxx" alt="" coords="1871,304,2049,331"/>
+<area shape="rect" id="node35" href="$Observer_8hxx.html" title="Observer.hxx" alt="" coords="2022,379,2130,405"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="src/main.cxx" name="src/main.cxx">
+<area shape="rect" id="node2" href="$Game_8hxx.html" title="Game.hxx" alt="" coords="978,80,1068,107"/>
+<area shape="rect" id="node3" href="$ScriptEngine_8hxx.html" title="Scripting/ScriptEngine.hxx" alt="" coords="1114,155,1306,181"/>
+<area shape="rect" id="node4" href="$MessageQueue_8hxx.html" title="util/MessageQueue.hxx" alt="" coords="290,304,465,331"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="935,453,1042,480"/>
+<area shape="rect" id="node16" href="$GameService_8hxx.html" title="GameService.hxx" alt="" coords="622,229,760,256"/>
+<area shape="rect" id="node29" href="$Randomizer_8hxx.html" title="services/Randomizer.hxx" alt="" coords="765,155,950,181"/>
+<area shape="rect" id="node32" href="$LOG_8hxx.html" title="../engine/basics/LOG.hxx" alt="" coords="1204,229,1386,256"/>
+<area shape="rect" id="node17" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="825,304,920,331"/>
+<area shape="rect" id="node28" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="612,304,770,331"/>
+<area shape="rect" id="node20" href="$TransitiveModel_8hxx.html" title="util/TransitiveModel.hxx" alt="" coords="722,379,900,405"/>
+<area shape="rect" id="node26" href="$Soundtrack_8hxx.html" title="engine/audio/Soundtrack.hxx" alt="" coords="1026,379,1236,405"/>
+<area shape="rect" id="node21" href="$Observer_8hxx.html" title="Observer.hxx" alt="" coords="802,453,910,480"/>
+</map>

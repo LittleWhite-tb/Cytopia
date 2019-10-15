@@ -1,0 +1,6 @@
+<map id="ComboBox::centerTextLabel" name="ComboBox::centerTextLabel">
+<area shape="rect" id="node2" href="$classComboBox.html#a21357bdfab5f30acbcc8bdd4bda79b99" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="281,5,454,32"/>
+<area shape="rect" id="node3" href="$classComboBox.html#a0c422945ffd5c8d65bc4d61bd092bece" title="ComboBox::addElement" alt="" coords="278,56,457,83"/>
+<area shape="rect" id="node5" href="$classComboBox.html#af0d53d01cb6d97f6dec54647721d125e" title="ComboBox::onMouseButtonUp" alt="" coords="257,107,477,133"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="525,49,720,90"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Checkbox" name="Checkbox">
+<area shape="rect" id="node2" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="202,649,409,1093"/>
+<area shape="rect" id="node3" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ isToggleButton\l|}" alt="" coords="105,1303,287,1380"/>
+<area shape="rect" id="node5" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(const std::string &amp;)\&gt;\n||+ Signal()\l}" alt="" coords="433,825,594,917"/>
+<area shape="rect" id="node6" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(const std::string\l &amp;), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l(const std::string &amp;) \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="323,335,599,471"/>
+<area shape="rect" id="node7" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="ProtoSignal is the template implementation for callback list. " alt="" coords="571,5,763,97"/>
+<area shape="rect" id="node9" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="557,219,777,311"/>
+<area shape="rect" id="node11" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l() \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="706,342,937,463"/>
+<area shape="rect" id="node8" href="$structSignal_1_1Signal.html" title="Signal is a template type providing an interface for arbitrary callback lists. A signal type needs to..." alt="" coords="551,495,782,587"/>
+<area shape="rect" id="node10" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void()\&gt;\n||+ Signal()\l}" alt="" coords="643,833,818,910"/>
+</map>

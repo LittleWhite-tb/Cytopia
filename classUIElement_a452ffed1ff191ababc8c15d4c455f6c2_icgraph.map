@@ -1,0 +1,9 @@
+<map id="UIElement::setTextureID" name="UIElement::setTextureID">
+<area shape="rect" id="node2" href="$classUIElement.html#a9c4439b91bcb765d0616616fbfe2a44a" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="235,5,435,32"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a007e9b56a4835b98db2b203df96ea79d" title="Draws the tile (defined by the string, tiledata pair) onto the button. " alt="" coords="233,57,436,98"/>
+<area shape="rect" id="node5" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="266,123,403,149"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="484,24,693,51"/>
+<area shape="rect" id="node6" href="$classGame.html#ad59df6562a58a614fda24622d3715b65" title="Game::Game" alt="" coords="535,93,643,120"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="527,144,651,171"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="741,144,796,171"/>
+</map>

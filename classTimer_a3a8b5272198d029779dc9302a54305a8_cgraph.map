@@ -1,0 +1,4 @@
+<map id="Timer::start" name="Timer::start">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="162,5,353,47"/>
+<area shape="rect" id="node3" href="$classEventManager.html#a6b80b0ed9a39bf7c1978fb6707cacd06" title="EventManager::registerTimer" alt="" coords="152,71,363,98"/>
+</map>

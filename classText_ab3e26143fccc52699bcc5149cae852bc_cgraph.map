@@ -1,0 +1,10 @@
+<map id="Text::Text" name="Text::Text">
+<area shape="rect" id="node2" href="$classText.html#a342401fbc97a2b4c902c076e86ba43bd" title="Destructor. " alt="" coords="156,5,251,32"/>
+<area shape="rect" id="node3" href="$classText.html#a8f486a54a21fafc7a5dfb75975f1621f" title="implements draw function. Renders the SDL_Texture generated from the TTF. " alt="" coords="159,56,248,83"/>
+<area shape="rect" id="node6" href="$classText.html#a14b9f0937696af5fd95317eb8313bf92" title="sets the text for this text widget. " alt="" coords="359,144,463,171"/>
+<area shape="rect" id="node9" href="$classText.html#a398a47abd355749d9e99bf74aa6a4a8d" title="Sets the Font size of this element. " alt="" coords="137,157,269,184"/>
+<area shape="rect" id="node4" href="$classUIElement.html#abba9217ad94f67e16654cf236577b6c2" title="Check the UI Elements visibility. Check if the UI Element is visibile. " alt="" coords="335,31,488,57"/>
+<area shape="rect" id="node5" href="$classUIElement.html#a0a6d27dea5d855c208e9bd9043b7ea62" title="UIElement::renderTexture" alt="" coords="317,81,505,108"/>
+<area shape="rect" id="node7" href="$classText.html#a3bf5a064fd37d06b8d3dc5a700556897" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="553,144,727,171"/>
+<area shape="rect" id="node8" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="775,137,925,178"/>
+</map>

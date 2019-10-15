@@ -1,0 +1,5 @@
+<map id="MapNode::checkTileIsEmpty" name="MapNode::checkTileIsEmpty">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="523,5,701,47"/>
+<area shape="rect" id="node3" href="$classTileManager.html#a0635992377296446c67c5d41b48e8826" title="TileManager::getTileData" alt="" coords="519,82,705,109"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a02266c320280e682f9d04021fd99b081" title="tileID placeable on slope tile. check if tileID is placeable on slope. " alt="" coords="260,53,471,79"/>
+</map>

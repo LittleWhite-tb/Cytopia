@@ -1,0 +1,4 @@
+<map id="Sprite" name="Sprite">
+<area shape="rect" id="node2" href="$structPoint.html" title="{Point\n|+ x\l+ y\l+ z\l+ height\l|}" alt="" coords="5,5,84,127"/>
+<area shape="rect" id="node3" href="$structSpriteRGBColor.html" title="{SpriteRGBColor\n|+ r\l+ g\l+ b\l|}" alt="" coords="127,13,250,119"/>
+</map>

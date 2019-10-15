@@ -1,0 +1,5 @@
+<map id="WindowManager::setFullScreenMode" name="WindowManager::setFullScreenMode">
+<area shape="rect" id="node2" href="$classUIManager.html#af2ffb4ee45e57152164643ef6cddda37" title="UIManager::changeFullScreenMode" alt="" coords="312,13,560,39"/>
+<area shape="rect" id="node4" href="$classWindowManager.html#a3a283b34c19aaa20296befaabad4d29b" title="Construct a new WindowManager object. " alt="" coords="313,63,559,90"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="608,5,803,47"/>
+</map>

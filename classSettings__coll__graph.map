@@ -1,0 +1,8 @@
+<map id="Settings" name="Settings">
+<area shape="rect" id="node2" href="$structSettingsData.html" title="{SettingsData\n|+ mapSize\l+ screenWidth\l+ screenHeight\l+ currentScreenWidth\l+ currentScreenHeight\l+ maxElevationHeight\l+ vSync\l+ fullScreen\l+ fullScreenMode\l+ playMusic\l+ playSoundEffects\l+ audioChannels\l+ audio3DStatus\l+ subMenuButtonWidth\l+ subMenuButtonHeight\l|}" alt="" coords="259,667,440,949"/>
+<area shape="rect" id="node3" href="$structStrongType.html" title="{StrongType\&lt; string,\l struct FilePathTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="5,307,160,531"/>
+<area shape="rect" id="node4" href="$structStrongType.html" title="{StrongType\&lt; WeakType,\l typename \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ StrongType()\l+ get()\l+ get()\l}" alt="" coords="91,5,269,229"/>
+<area shape="rect" id="node6" href="$structStrongType.html" title="{StrongType\&lt; uint8_t,\l struct VolumeLevelTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="185,307,373,531"/>
+<area shape="rect" id="node7" href="$classSingleton.html" title="{Singleton\&lt; Settings \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="501,755,667,861"/>
+<area shape="rect" id="node8" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="561,365,682,472"/>
+</map>

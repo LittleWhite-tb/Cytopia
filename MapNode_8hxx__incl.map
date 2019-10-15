@@ -1,0 +1,8 @@
+<map id="src/engine/GameObjects/MapNode.hxx" name="src/engine/GameObjects/MapNode.hxx">
+<area shape="rect" id="node7" href="$Sprite_8hxx.html" title="../Sprite.hxx" alt="" coords="351,95,451,121"/>
+<area shape="rect" id="node8" href="$point_8hxx.html" title="basics/point.hxx" alt="" coords="304,169,432,196"/>
+<area shape="rect" id="node9" href="$enums_8hxx.html" title="common/enums.hxx" alt="" coords="5,169,160,196"/>
+<area shape="rect" id="node11" href="$TileManager_8hxx.html" title="../TileManager.hxx" alt="" coords="609,95,751,121"/>
+<area shape="rect" id="node13" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="539,169,642,196"/>
+<area shape="rect" id="node15" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="969,169,1079,196"/>
+</map>

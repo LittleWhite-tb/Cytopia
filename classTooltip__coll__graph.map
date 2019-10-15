@@ -1,0 +1,11 @@
+<map id="Tooltip" name="Tooltip">
+<area shape="rect" id="node2" href="$classText.html" title="{Text\n|&#45; m_fontSize\l|+ Text()\l+ ~Text()\l+ draw()\l+ setText()\l+ setFontSize()\l+ getFontSize()\l&#45; createTextTexture()\l}" alt="" coords="5,1347,163,1512"/>
+<area shape="rect" id="node3" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="39,620,246,1064"/>
+<area shape="rect" id="node4" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ isToggleButton\l|}" alt="" coords="187,1391,370,1468"/>
+<area shape="rect" id="node6" href="$classTimer.html" title="{Timer\n|&#45; m_loopTimer\l&#45; m_timeOut\l&#45; m_isActive\l&#45; m_timeUntilTimeOut\l&#45; m_timeSinceLastTimeOut\l&#45; m_elapsedTime\l&#45; m_startTime\l&#45; m_endTime\l&#45; m_lastTimeOutTime\l|+ Timer()\l+ ~Timer()\l+ getElapsedTime()\l+ getElapsedTimeSinceLastTimeOut()\l+ start()\l+ stop()\l+ pause()\l+ resume()\l+ isActive()\l+ isTimedOut()\l+ setTimer()\l+ registerCallbackFunction()\l+ loopTimer()\l+ checkTimeout()\l&#45; timeOut()\l}" alt="" coords="394,1229,665,1629"/>
+<area shape="rect" id="node7" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void()\&gt;\n||+ Signal()\l}" alt="" coords="442,803,617,881"/>
+<area shape="rect" id="node8" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(), Lib::CollectorDefault\l\&lt; typename std::function\&lt; void\l() \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="351,320,582,441"/>
+<area shape="rect" id="node9" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="ProtoSignal is the template implementation for callback list. " alt="" coords="448,5,640,97"/>
+<area shape="rect" id="node11" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="534,204,754,296"/>
+<area shape="rect" id="node10" href="$structSignal_1_1Signal.html" title="Signal is a template type providing an interface for arbitrary callback lists. A signal type needs to..." alt="" coords="525,465,755,557"/>
+</map>

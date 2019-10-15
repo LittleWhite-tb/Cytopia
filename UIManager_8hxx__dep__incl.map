@@ -1,0 +1,9 @@
+<map id="src/engine/UIManager.hxx" name="src/engine/UIManager.hxx">
+<area shape="rect" id="node2" href="$EventManager_8hxx.html" title="src/engine/EventManager.hxx" alt="" coords="252,87,465,114"/>
+<area shape="rect" id="node5" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="469,169,579,196"/>
+<area shape="rect" id="node6" href="$ButtonGroup_8cxx.html" title="src/engine/ui/basics\l/ButtonGroup.cxx" alt="" coords="551,80,702,121"/>
+<area shape="rect" id="node7" href="$Layout_8cxx.html" title="src/engine/ui/basics\l/Layout.cxx" alt="" coords="726,80,877,121"/>
+<area shape="rect" id="node8" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="901,87,1091,114"/>
+<area shape="rect" id="node3" href="$Timer_8cxx.html" title="src/engine/basics/Timer.cxx" alt="" coords="5,169,208,196"/>
+<area shape="rect" id="node4" href="$EventManager_8cxx.html" title="src/engine/EventManager.cxx" alt="" coords="233,169,445,196"/>
+</map>

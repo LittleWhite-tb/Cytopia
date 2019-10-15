@@ -1,0 +1,6 @@
+<map id="Soundtrack" name="Soundtrack">
+<area shape="rect" id="node2" href="$structStrongType.html" title="{StrongType\&lt; string,\l struct SoundtrackIDTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="5,307,196,531"/>
+<area shape="rect" id="node3" href="$structStrongType.html" title="{StrongType\&lt; WeakType,\l typename \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ StrongType()\l+ get()\l+ get()\l}" alt="" coords="218,5,397,229"/>
+<area shape="rect" id="node4" href="$structStrongType.html" title="{StrongType\&lt; int, struct\l ChannelIDTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="222,307,393,531"/>
+<area shape="rect" id="node5" href="$structStrongType.html" title="{StrongType\&lt; uint8_t,\l struct RepeatCountTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="425,307,611,531"/>
+</map>

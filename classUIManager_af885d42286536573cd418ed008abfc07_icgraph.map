@@ -1,0 +1,5 @@
+<map id="UIManager::setBuildMenuLayout" name="UIManager::setBuildMenuLayout">
+<area shape="rect" id="node2" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="301,5,510,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="285,56,525,83"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="573,49,768,90"/>
+</map>

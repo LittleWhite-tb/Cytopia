@@ -1,0 +1,9 @@
+<map id="src/engine/TileManager.cxx" name="src/engine/TileManager.cxx">
+<area shape="rect" id="node2" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="286,155,415,181"/>
+<area shape="rect" id="node9" href="$LOG_8hxx.html" title="basics/LOG.hxx" alt="" coords="1061,155,1184,181"/>
+<area shape="rect" id="node15" href="$Settings_8hxx.html" title="basics/Settings.hxx" alt="" coords="643,80,791,107"/>
+<area shape="rect" id="node21" href="$ResourcesManager_8hxx.html" title="ResourcesManager.hxx" alt="" coords="448,80,619,107"/>
+<area shape="rect" id="node6" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="158,229,261,256"/>
+<area shape="rect" id="node8" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="433,229,543,256"/>
+<area shape="rect" id="node16" href="$Meta_8hxx.html" title="../../util/Meta.hxx" alt="" coords="731,155,861,181"/>
+</map>

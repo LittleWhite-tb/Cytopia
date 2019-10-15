@@ -1,0 +1,9 @@
+<map id="EventManager" name="EventManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; EventManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="5,305,212,412"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="127,5,248,112"/>
+<area shape="rect" id="node5" href="$classSingleton.html" title="{Singleton\&lt; UIManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="175,175,357,281"/>
+<area shape="rect" id="node4" href="$classUIManager.html" title="Draws the UI to the screen Parses UiLayout.json file and instantiates UI widgets accordingly. Also takes care of layouting. " alt="" coords="147,436,385,924"/>
+<area shape="rect" id="node6" href="$structPoint.html" title="{Point\n|+ x\l+ y\l+ z\l+ height\l|}" alt="" coords="409,619,488,741"/>
+<area shape="rect" id="node7" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="692,458,899,902"/>
+<area shape="rect" id="node8" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ isToggleButton\l|}" alt="" coords="792,1141,975,1218"/>
+</map>

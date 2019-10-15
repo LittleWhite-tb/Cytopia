@@ -1,0 +1,7 @@
+<map id="AudioMixer::AudioMixer" name="AudioMixer::AudioMixer">
+<area shape="rect" id="node2" href="$classAudioMixer.html#a8768f4604c540f6e4730cce4ed7a85d0" title="Loads all game sounds, can be called in new thread. " alt="" coords="229,63,424,90"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="727,5,877,47"/>
+<area shape="rect" id="node4" href="$classAudioMixer.html#a796bf8b85793a12857d2b92d3cd41d23" title="Loads all sounds into the AudioMixer. " alt="" coords="473,38,677,65"/>
+<area shape="rect" id="node5" href="$classAudioMixer.html#a1e99011921698de1ae9aa2afc2789166" title="Called whenever a Channel has finished playing. " alt="" coords="472,89,679,115"/>
+<area shape="rect" id="node6" href="$classAudioMixer.html#a8e10448151f086ed146a48b5872f64aa" title="AudioMixer::onTrackFinished\lFuncPtr" alt="" coords="472,140,679,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WindowManager" name="WindowManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; WindowManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="21,175,243,281"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="71,5,193,112"/>
+</map>

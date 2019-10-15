@@ -1,0 +1,24 @@
+<map id="Map::demolishNode" name="Map::demolishNode">
+<area shape="rect" id="node2" href="$classEngine.html#addfc50e21da201426444d8b4a07b3976" title="Engine::demolishNode" alt="" coords="1324,487,1492,513"/>
+<area shape="rect" id="node9" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="204,423,359,449"/>
+<area shape="rect" id="node11" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="407,360,624,387"/>
+<area shape="rect" id="node12" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="673,284,831,311"/>
+<area shape="rect" id="node23" href="$classMap.html#a779c939483a52b32a3959b99af95e67a" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="1326,385,1490,412"/>
+<area shape="rect" id="node3" href="$classEngine.html#a8a53c5e52734a5158b317851361b83f2" title="Engine::setTileIDOfNode" alt="" coords="1540,385,1721,412"/>
+<area shape="rect" id="node4" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1785,360,1991,387"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="2055,233,2145,260"/>
+<area shape="rect" id="node6" href="$classGame.html#ad59df6562a58a614fda24622d3715b65" title="Game::Game" alt="" coords="2201,259,2309,285"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="2193,208,2317,235"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2365,208,2420,235"/>
+<area shape="rect" id="node10" href="$classEngine.html#a4851ae1ff696c893741167fc0194fd77" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="1104,436,1276,463"/>
+<area shape="rect" id="node14" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="672,335,832,361"/>
+<area shape="rect" id="node13" href="$classEngine.html#a13572fdd7f6470dca48a14497f58980e" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="880,233,1056,260"/>
+<area shape="rect" id="node15" href="$classMap.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="915,284,1021,311"/>
+<area shape="rect" id="node20" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="1107,335,1273,361"/>
+<area shape="rect" id="node16" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="1338,81,1478,108"/>
+<area shape="rect" id="node17" href="$classEngine.html#af7de8d74b0cfacaf06df53e7caf11538" title="Engine::saveGame" alt="" coords="1559,31,1703,57"/>
+<area shape="rect" id="node18" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="1769,132,2007,159"/>
+<area shape="rect" id="node19" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="1819,233,1957,260"/>
+<area shape="rect" id="node21" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="1337,247,1479,273"/>
+<area shape="rect" id="node22" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="1561,284,1700,311"/>
+</map>

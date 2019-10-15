@@ -1,0 +1,8 @@
+<map id="Map::isClickWithinTile" name="Map::isClickWithinTile">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="255,5,405,47"/>
+<area shape="rect" id="node3" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="236,71,424,98"/>
+<area shape="rect" id="node6" href="$classMap.html#a09ba2fb8fa1748f0effd3ce50ce6cf89" title="Map::getColorOfPixelInSurface" alt="" coords="220,122,440,149"/>
+<area shape="rect" id="node7" href="$classResourcesManager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="231,173,429,215"/>
+<area shape="rect" id="node4" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="493,46,664,73"/>
+<area shape="rect" id="node5" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="488,97,669,123"/>
+</map>

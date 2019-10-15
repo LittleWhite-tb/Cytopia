@@ -1,0 +1,51 @@
+<map id="EventManager::checkEvents" name="EventManager::checkEvents">
+<area shape="rect" id="node2" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="329,558,467,585"/>
+<area shape="rect" id="node8" href="$classUIManager.html#a23bbbe53c18c31ff1c68c105dfa0dbd3" title="Callback function for toggling the visibility of an UiGroup Callback function for Ui Widgets with the..." alt="" coords="279,102,517,129"/>
+<area shape="rect" id="node12" href="$classUIManager.html#adc4fc26d57014ef94c8ad4e875dbf732" title="Toggle Visibility of Debug Menu. " alt="" coords="289,153,507,179"/>
+<area shape="rect" id="node13" href="$classMapLayers.html#ab2826064f5d7659446500def39bf4458" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="309,203,487,230"/>
+<area shape="rect" id="node14" href="$classEngine.html#aed0b02ad4a43a8fc71b4084a2b45b612" title="Toggle Fullscreen Mode Toggle Fullscreen Mode. " alt="" coords="878,866,1059,893"/>
+<area shape="rect" id="node15" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1404,320,1555,361"/>
+<area shape="rect" id="node17" href="$isoMath_8cxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="585,246,812,273"/>
+<area shape="rect" id="node21" href="$classCamera.html#a1f8ecd427814c5a4970223c2d13b9310" title="Camera::setPinchDistance" alt="" coords="301,406,495,433"/>
+<area shape="rect" id="node23" href="$isoMath_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="1135,378,1343,405"/>
+<area shape="rect" id="node25" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="1187,554,1290,581"/>
+<area shape="rect" id="node26" href="$classCamera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Increases the zoom level of the camera Increases the zoom level of the camera. " alt="" coords="594,355,803,382"/>
+<area shape="rect" id="node27" href="$classCamera.html#aeea39f352d5873495dea6f376cf3207e" title="Decreases the zoom level of the camera Decreases the zoom level of the camera. " alt="" coords="592,457,805,483"/>
+<area shape="rect" id="node28" href="$classUIManager.html#a1f663947ee80bfcb9567f82aa5d05607" title="Get all Ui Element objects Returns a container that holds ALL UiElements, even those in buttongroups..." alt="" coords="291,659,505,686"/>
+<area shape="rect" id="node29" href="$classUIManager.html#a4fbcdd11073f4e3ccffc9ec58d51db05" title="UIManager::startTooltip" alt="" coords="311,710,485,737"/>
+<area shape="rect" id="node30" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="259,761,537,787"/>
+<area shape="rect" id="node31" href="$classUIManager.html#a470ac505444da5d4954ec67a79a659d9" title="UIManager::stopTooltip" alt="" coords="313,811,483,838"/>
+<area shape="rect" id="node32" href="$classUIElement.html#a43b9f5f4be71c672ca8ed528fce1dfc5" title="UIElement::onMouseLeave" alt="" coords="301,862,495,889"/>
+<area shape="rect" id="node33" href="$classUIElement.html#a8e089719777f393d720e3cb1708f8070" title="UIElement::onMouseMove" alt="" coords="303,913,493,939"/>
+<area shape="rect" id="node34" href="$classMap.html#a4b2fa896a5346d86a4c5a4a84579839a" title="Sets a node to be unhighlit This sets a node to be unhighlit, the highlighting is done during renderi..." alt="" coords="315,1065,481,1091"/>
+<area shape="rect" id="node36" href="$isoMath_8cxx.html#a53022f1a18227cd66aef14eaf988f686" title="Creates a line between two points using the Bresenham Line algorithm Creates a line between two point..." alt="" coords="316,1014,480,1041"/>
+<area shape="rect" id="node37" href="$classMap.html#ab33e202107202756f4e9f196f0037d99" title="Map::checkTileIDIsEmpty" alt="" coords="875,786,1062,813"/>
+<area shape="rect" id="node38" href="$classMap.html#a43b4d0ba19a16c530692e901f6f7421f" title="Sets a node to be highlit This sets a node to be highlit, the highlighting is done during rendering..." alt="" coords="324,963,472,990"/>
+<area shape="rect" id="node39" href="$classUIManager.html#a6440fcefe6e6a9ceedfca28543488abf" title="Get all Ui Elements For Event Handling Returns Widgets that are not in ButtonGroups and ButtonGroups..." alt="" coords="291,1167,505,1208"/>
+<area shape="rect" id="node40" href="$classMap.html#a0241b997090783e5d13667114731a592" title="Debug MapNodeData to Console Used as Tile&#45;Inspector until we implement a GUI variant. " alt="" coords="875,1115,1063,1142"/>
+<area shape="rect" id="node41" href="$classEngine.html#a4851ae1ff696c893741167fc0194fd77" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="312,1385,484,1411"/>
+<area shape="rect" id="node46" href="$classEngine.html#a13572fdd7f6470dca48a14497f58980e" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="881,1494,1057,1521"/>
+<area shape="rect" id="node47" href="$classEngine.html#a8a53c5e52734a5158b317851361b83f2" title="Engine::setTileIDOfNode" alt="" coords="307,1283,489,1310"/>
+<area shape="rect" id="node50" href="$classEngine.html#addfc50e21da201426444d8b4a07b3976" title="Engine::demolishNode" alt="" coords="615,1318,783,1345"/>
+<area shape="rect" id="node3" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="628,558,769,585"/>
+<area shape="rect" id="node4" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="885,706,1052,733"/>
+<area shape="rect" id="node5" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="1169,655,1308,682"/>
+<area shape="rect" id="node6" href="$classMap.html#a1197ab65e40dd20b891ba165471e3163" title="Map::Map" alt="" coords="1197,706,1281,733"/>
+<area shape="rect" id="node7" href="$classMap.html#a482ac34426e8aa66abb46f60ec329402" title="Initialize the Map with node objects Initialize the Map with node objects. " alt="" coords="1186,757,1291,783"/>
+<area shape="rect" id="node9" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="589,195,808,222"/>
+<area shape="rect" id="node10" href="$classUIElement.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="611,94,786,121"/>
+<area shape="rect" id="node11" href="$classButton.html#a076af7f94be44c9b450911ae4664f23f" title="Button::checkState" alt="" coords="626,145,771,171"/>
+<area shape="rect" id="node16" href="$classWindowManager.html#a740e60cb14f4edd1de47dc0f961d030b" title="WindowManager::toggleFull\lScreen" alt="" coords="1138,859,1339,900"/>
+<area shape="rect" id="node18" href="$classMap.html#a8cc1c9d35ae2c3ede6bc0fcc59b9aa41" title="Returns the node at given screencoordinates. " alt="" coords="891,233,1046,259"/>
+<area shape="rect" id="node19" href="$isoMath_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="1149,175,1328,202"/>
+<area shape="rect" id="node20" href="$classMap.html#a1f87a6ce8b3be8d140bcee1b1e473903" title="Map::isClickWithinTile" alt="" coords="1155,277,1322,303"/>
+<area shape="rect" id="node22" href="$classCamera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="860,431,1077,458"/>
+<area shape="rect" id="node24" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="1125,503,1352,530"/>
+<area shape="rect" id="node35" href="$classMapNode.html#a770be81d0b2dd7f64ca4acd8f4be60ec" title="get Sprite get the Sprite* object for this nodes " alt="" coords="623,1014,774,1041"/>
+<area shape="rect" id="node42" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="621,1381,776,1407"/>
+<area shape="rect" id="node43" href="$classMap.html#a05e7d896dc5062af07c9b838600a068d" title="Demolish a node Invokes the tiles demolish function. " alt="" coords="893,1318,1044,1345"/>
+<area shape="rect" id="node44" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="1130,1369,1347,1395"/>
+<area shape="rect" id="node45" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="1400,1369,1559,1395"/>
+<area shape="rect" id="node48" href="$classMap.html#a779c939483a52b32a3959b99af95e67a" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="617,1267,781,1294"/>
+<area shape="rect" id="node49" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="893,1217,1044,1243"/>
+</map>

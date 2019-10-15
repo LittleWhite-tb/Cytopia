@@ -1,0 +1,9 @@
+<map id="UIManager::setupButtonTileImage" name="UIManager::setupButtonTileImage">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="588,5,739,47"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="276,75,456,102"/>
+<area shape="rect" id="node5" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="259,126,473,153"/>
+<area shape="rect" id="node8" href="$classUIManager.html#a3b9194dc623c7f3fe90519e291c7ded0" title="takes an SDL_Rect, default button width and height, and image width and height and scales the image t..." alt="" coords="256,177,476,219"/>
+<area shape="rect" id="node4" href="$classResourcesManager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="546,75,781,102"/>
+<area shape="rect" id="node6" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="572,126,755,153"/>
+<area shape="rect" id="node7" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="524,177,803,203"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AudioMixer::onTrackFinishedFuncPtr" name="AudioMixer::onTrackFinishedFuncPtr">
+<area shape="rect" id="node2" href="$classAudioMixer.html#a8768f4604c540f6e4730cce4ed7a85d0" title="Loads all game sounds, can be called in new thread. " alt="" coords="260,13,455,39"/>
+<area shape="rect" id="node3" href="$classAudioMixer.html#add40bb51b99554f0408efe1630bf983d" title="AudioMixer::AudioMixer" alt="" coords="503,13,679,39"/>
+</map>

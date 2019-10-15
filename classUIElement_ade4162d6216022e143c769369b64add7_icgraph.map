@@ -1,0 +1,19 @@
+<map id="UIElement::changeButtonState" name="UIElement::changeButtonState">
+<area shape="rect" id="node2" href="$classUIElement.html#a902b00b3e651b2a0e33345c3dbd810d4" title="Set the Action Parameter of the UI Element. Sets the Parameter of the action the UI Element should ex..." alt="" coords="282,5,509,32"/>
+<area shape="rect" id="node4" href="$classButton.html#acfeb33328b356d4fda989808888f81db" title="Button::onMouseButtonUp" alt="" coords="583,132,775,159"/>
+<area shape="rect" id="node5" href="$classButton.html#a407ed56d8e7936c774e469bd3a732f94" title="Button::onMouseButtonDown" alt="" coords="290,107,501,133"/>
+<area shape="rect" id="node6" href="$classButton.html#af890652b6918d511cae071f9982c5f2b" title="Button::onMouseEnter" alt="" coords="313,157,478,184"/>
+<area shape="rect" id="node7" href="$classButton.html#a30125723c03d6f675c1ecdbfe2b6d265" title="Button::onMouseLeave" alt="" coords="310,208,481,235"/>
+<area shape="rect" id="node8" href="$classButton.html#a25f11ea415fdbb64cb897421bf746918" title="Button::setCheckState" alt="" coords="312,259,479,285"/>
+<area shape="rect" id="node11" href="$classCheckbox.html#ae58c2c6329459ca23d025f1761c0c78e" title="Checkbox::onMouseButtonUp" alt="" coords="289,309,502,336"/>
+<area shape="rect" id="node12" href="$classCheckbox.html#a77988b3bf139576b2d33ce755c6bbca5" title="Checkbox::onMouseButtonDown" alt="" coords="279,360,511,387"/>
+<area shape="rect" id="node13" href="$classCheckbox.html#ae54b2346527479a073493ececaaef099" title="Checkbox::onMouseEnter" alt="" coords="302,411,489,437"/>
+<area shape="rect" id="node14" href="$classCheckbox.html#a304b657ec5d71ba0a344c4ffc3279d2f" title="Checkbox::onMouseLeave" alt="" coords="300,461,491,488"/>
+<area shape="rect" id="node15" href="$classComboBox.html#af0d53d01cb6d97f6dec54647721d125e" title="ComboBox::onMouseButtonUp" alt="" coords="285,512,505,539"/>
+<area shape="rect" id="node16" href="$classComboBox.html#a132276aba4ff900343458e81f318fd74" title="ComboBox::onMouseButtonDown" alt="" coords="276,563,515,589"/>
+<area shape="rect" id="node17" href="$classComboBox.html#a55112fe7f702cca98660f87fb231eb95" title="ComboBox::onMouseLeave" alt="" coords="296,613,495,640"/>
+<area shape="rect" id="node18" href="$classComboBox.html#a9e34bb39454d682c02e434bcc0aa99a4" title="ComboBox::onMouseMove" alt="" coords="298,664,493,691"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="575,5,784,32"/>
+<area shape="rect" id="node9" href="$classButtonGroup.html#aa1a05dec9459ad23e5d7028fa9d35850" title="Function to call the uncheck event of buttons. Function to call the uncheck event of buttons..." alt="" coords="563,259,796,285"/>
+<area shape="rect" id="node10" href="$classButtonGroup.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="844,259,1075,285"/>
+</map>

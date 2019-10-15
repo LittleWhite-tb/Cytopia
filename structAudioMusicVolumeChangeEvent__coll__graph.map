@@ -1,0 +1,4 @@
+<map id="AudioMusicVolumeChangeEvent" name="AudioMusicVolumeChangeEvent">
+<area shape="rect" id="node2" href="$structStrongType.html" title="{StrongType\&lt; uint8_t,\l struct VolumeLevelTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="27,307,215,531"/>
+<area shape="rect" id="node3" href="$structStrongType.html" title="{StrongType\&lt; WeakType,\l typename \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ StrongType()\l+ get()\l+ get()\l}" alt="" coords="31,5,210,229"/>
+</map>

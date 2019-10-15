@@ -1,0 +1,7 @@
+<map id="src/services/AudioMixer.hxx" name="src/services/AudioMixer.hxx">
+<area shape="rect" id="node2" href="$JsonSerialization_8hxx.html" title="src/engine/common/JsonSerialization.hxx" alt="" coords="461,80,752,107"/>
+<area shape="rect" id="node6" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="704,155,907,181"/>
+<area shape="rect" id="node3" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="5,155,224,181"/>
+<area shape="rect" id="node4" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="248,155,509,181"/>
+<area shape="rect" id="node5" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="533,155,680,181"/>
+</map>

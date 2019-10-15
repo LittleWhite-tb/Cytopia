@@ -1,0 +1,6 @@
+<map id="TileManager::getTileData" name="TileManager::getTileData">
+<area shape="rect" id="node2" href="$classMapNode.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="271,5,420,32"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a02266c320280e682f9d04021fd99b081" title="tileID placeable on slope tile. check if tileID is placeable on slope. " alt="" coords="240,56,451,83"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a46cba618e059527fe2b1a9bebd2bc979" title="MapNode::checkTileIsEmpty" alt="" coords="499,81,705,108"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ac2fd11448837a8b56a58601238e824b2" title="MapNode::MapNode" alt="" coords="526,5,678,32"/>
+</map>

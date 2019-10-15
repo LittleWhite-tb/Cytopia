@@ -1,0 +1,23 @@
+<map id="UIElement::isMouseOver" name="UIElement::isMouseOver">
+<area shape="rect" id="node2" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="245,161,459,188"/>
+<area shape="rect" id="node18" href="$classButton.html#acfeb33328b356d4fda989808888f81db" title="Button::onMouseButtonUp" alt="" coords="256,212,448,239"/>
+<area shape="rect" id="node19" href="$classButton.html#a407ed56d8e7936c774e469bd3a732f94" title="Button::onMouseButtonDown" alt="" coords="247,263,457,289"/>
+<area shape="rect" id="node20" href="$classCheckbox.html#ae58c2c6329459ca23d025f1761c0c78e" title="Checkbox::onMouseButtonUp" alt="" coords="245,313,459,340"/>
+<area shape="rect" id="node21" href="$classCheckbox.html#a77988b3bf139576b2d33ce755c6bbca5" title="Checkbox::onMouseButtonDown" alt="" coords="236,364,468,391"/>
+<area shape="rect" id="node22" href="$classTextField.html#a37a7a796a3feb9b7795aafbf5c8be152" title="TextField::onMouseButtonUp" alt="" coords="249,415,455,441"/>
+<area shape="rect" id="node3" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="516,81,735,108"/>
+<area shape="rect" id="node11" href="$classTextField.html#abe03b4b6ebf469645940cfa018bcdca2" title="TextField::addText" alt="" coords="556,132,695,159"/>
+<area shape="rect" id="node12" href="$classUIManager.html#a007e9b56a4835b98db2b203df96ea79d" title="Draws the tile (defined by the string, tiledata pair) onto the button. " alt="" coords="524,183,727,225"/>
+<area shape="rect" id="node14" href="$classGame.html#a5ed7fc5be77080f7f6dd5363f7f007a1" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="557,249,694,276"/>
+<area shape="rect" id="node4" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="795,81,980,108"/>
+<area shape="rect" id="node5" href="$UIManager_8cxx.html#a93ebc51d97942bf4e32123b5c61c4141" title="BETTER_ENUM" alt="" coords="1105,5,1223,32"/>
+<area shape="rect" id="node6" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="1044,56,1284,83"/>
+<area shape="rect" id="node8" href="$classUIManager.html#ac927e1cd3dea979202ea9dbf1195b583" title="UIManager::changeResolution" alt="" coords="1057,157,1271,184"/>
+<area shape="rect" id="node10" href="$classUIManager.html#af2ffb4ee45e57152164643ef6cddda37" title="UIManager::changeFullScreenMode" alt="" coords="1040,107,1288,133"/>
+<area shape="rect" id="node7" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="1357,95,1552,137"/>
+<area shape="rect" id="node9" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="1336,161,1573,188"/>
+<area shape="rect" id="node13" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="783,191,992,217"/>
+<area shape="rect" id="node15" href="$classGame.html#ad59df6562a58a614fda24622d3715b65" title="Game::Game" alt="" coords="833,245,941,272"/>
+<area shape="rect" id="node16" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="825,296,949,323"/>
+<area shape="rect" id="node17" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1137,296,1191,323"/>
+</map>

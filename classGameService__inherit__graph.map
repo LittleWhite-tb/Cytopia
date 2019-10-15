@@ -1,0 +1,5 @@
+<map id="GameService" name="GameService">
+<area shape="rect" id="node2" href="$classAudioMixer.html" title="{AudioMixer\n|&#45; m_Soundtracks\l&#45; m_Triggers\l&#45; m_GetSound\l&#45; m_Playing\l&#45; m_LoadSoundThread\l&#45; running\l&#45; onTrackFinishedFunc\l|+ setMusicVolume()\l+ setSoundEffectVolume()\l+ play()\l+ play()\l+ setMuted()\l+ AudioMixer()\l+ ~AudioMixer()\l+ loadAllSounds()\l+ joinLoadThread()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; handleEvent()\l&#45; playSoundtrack()\l&#45; loadSoundtrack()\l&#45; onTrackFinished()\l&#45; onTrackFinishedFuncPtr()\l}" alt="" coords="5,145,199,560"/>
+<area shape="rect" id="node3" href="$structGame_1_1GameVisitor.html" title="{Game::GameVisitor\n||+ operator()()\l+ operator()()\l}" alt="" coords="223,307,373,399"/>
+<area shape="rect" id="node4" href="$classRandomizer.html" title="{Randomizer\n|&#45; generator\l|+ Randomizer()\l+ choose()\l}" alt="" coords="398,307,523,399"/>
+</map>

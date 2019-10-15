@@ -1,0 +1,9 @@
+<map id="ComboBox" name="ComboBox">
+<area shape="rect" id="node2" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="5,649,212,1093"/>
+<area shape="rect" id="node3" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ isToggleButton\l|}" alt="" coords="17,1383,200,1461"/>
+<area shape="rect" id="node5" href="$structSignal_1_1Signal.html" title="{Signal::Signal\&lt; void\l(UIElement *sender)\&gt;\n||+ Signal()\l}" alt="" coords="465,825,632,917"/>
+<area shape="rect" id="node6" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; void(UIElement *sender)\l, Lib::CollectorDefault\&lt;\l typename std::function\&lt; void\l(UIElement *sender) \&gt;::result_type \&gt; \&gt;\n||}" alt="" coords="355,335,636,471"/>
+<area shape="rect" id="node7" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="ProtoSignal is the template implementation for callback list. " alt="" coords="479,5,671,97"/>
+<area shape="rect" id="node9" href="$classSignal_1_1Lib_1_1ProtoSignal.html" title="{Signal::Lib::ProtoSignal\l\&lt; SignalSignature, Collector \&gt;\n||}" alt="" coords="565,219,785,311"/>
+<area shape="rect" id="node8" href="$structSignal_1_1Signal.html" title="Signal is a template type providing an interface for arbitrary callback lists. A signal type needs to..." alt="" coords="539,495,769,587"/>
+</map>

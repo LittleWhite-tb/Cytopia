@@ -1,0 +1,5 @@
+<map id="IMenuGroup" name="IMenuGroup">
+<area shape="rect" id="node2" href="$classButtonGroup.html" title="Class to group buttons and to make sure there&#39;s only one active toggle button in the group When addin..." alt="" coords="10,615,195,824"/>
+<area shape="rect" id="node3" href="$classUIElement.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="99,5,306,449"/>
+<area shape="rect" id="node4" href="$structUIElement_1_1ElementData.html" title="{UIElement::ElementData\n|+ isToggleButton\l|}" alt="" coords="219,681,402,758"/>
+</map>

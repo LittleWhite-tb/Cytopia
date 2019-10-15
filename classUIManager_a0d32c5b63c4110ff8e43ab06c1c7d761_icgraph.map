@@ -1,0 +1,10 @@
+<map id="UIManager::getAllLayoutGroups" name="UIManager::getAllLayoutGroups">
+<area shape="rect" id="node2" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="548,81,733,108"/>
+<area shape="rect" id="node9" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="281,107,500,133"/>
+<area shape="rect" id="node3" href="$UIManager_8cxx.html#a93ebc51d97942bf4e32123b5c61c4141" title="BETTER_ENUM" alt="" coords="846,5,965,32"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="785,56,1025,83"/>
+<area shape="rect" id="node6" href="$classUIManager.html#ac927e1cd3dea979202ea9dbf1195b583" title="UIManager::changeResolution" alt="" coords="798,157,1013,184"/>
+<area shape="rect" id="node8" href="$classUIManager.html#af2ffb4ee45e57152164643ef6cddda37" title="UIManager::changeFullScreenMode" alt="" coords="781,107,1029,133"/>
+<area shape="rect" id="node5" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="1099,95,1293,137"/>
+<area shape="rect" id="node7" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="1077,161,1315,188"/>
+</map>

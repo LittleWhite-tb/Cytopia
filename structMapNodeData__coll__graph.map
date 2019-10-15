@@ -1,0 +1,4 @@
+<map id="MapNodeData" name="MapNodeData">
+<area shape="rect" id="node2" href="$structTileData.html" title="{TileData\n|+ buildingsize\l+ price\l+ upkeepCost\l+ power\l+ water\l+ drawGround\l+ placeOnGround\l+ placeOnWater\l+ isOverPlacable\l+ pollutionLevel\l+ crimeLevel\l+ fireDangerLevel\l+ habitants\l|}" alt="" coords="63,373,203,627"/>
+<area shape="rect" id="node3" href="$structTileSetData.html" title="{TileSetData\n|+ count\l+ clippingWidth\l+ clippingHeight\l+ offset\l+ rotations\l|}" alt="" coords="204,145,335,281"/>
+</map>

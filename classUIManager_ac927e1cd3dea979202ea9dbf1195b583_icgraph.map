@@ -1,0 +1,4 @@
+<map id="UIManager::changeResolution" name="UIManager::changeResolution">
+<area shape="rect" id="node2" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="268,5,505,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="289,57,484,98"/>
+</map>

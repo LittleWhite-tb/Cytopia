@@ -1,0 +1,4 @@
+<map id="MessageQueue&lt; Event &gt;" name="MessageQueue&lt; Event &gt;">
+<area shape="rect" id="node2" href="$classMessageQueue.html" title="{MessageQueue\&lt; typename\l VariantType\&lt; UIEvents\l \&gt;::type \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="5,307,208,560"/>
+<area shape="rect" id="node3" href="$classMessageQueue.html" title="{MessageQueue\&lt; typename\l VariantType\&lt; GameEvents\l \&gt;::type \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="232,307,435,560"/>
+</map>

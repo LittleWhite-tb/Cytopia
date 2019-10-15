@@ -1,0 +1,6 @@
+<map id="Slider::draw" name="Slider::draw">
+<area shape="rect" id="node2" href="$classUIElement.html#af84e7dae94a8239bb12d73a856e4be67" title="UIElement::drawFrame" alt="" coords="173,5,344,32"/>
+<area shape="rect" id="node4" href="$classUIElement.html#afa1b8ca68981752ffb5e40e22ee2a946" title="Change the Texture of the button Changes the texture. " alt="" coords="152,56,365,83"/>
+<area shape="rect" id="node3" href="$classUIElement.html#a4aca28b5f308b875340868697d0cc50c" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="416,5,607,32"/>
+<area shape="rect" id="node5" href="$classUIElement.html#a98725ac250168ebb2fa676dd481ff495" title="Get the button state Get the current mouse button pressed state. " alt="" coords="413,56,609,83"/>
+</map>

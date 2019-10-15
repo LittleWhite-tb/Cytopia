@@ -1,0 +1,4 @@
+<map id="AudioPlayEvent" name="AudioPlayEvent">
+<area shape="rect" id="node2" href="$structStrongType.html" title="{StrongType\&lt; string,\l struct SoundtrackIDTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="5,307,196,531"/>
+<area shape="rect" id="node3" href="$structStrongType.html" title="{StrongType\&lt; WeakType,\l typename \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ StrongType()\l+ get()\l+ get()\l}" alt="" coords="11,5,190,229"/>
+</map>

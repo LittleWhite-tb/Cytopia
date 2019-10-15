@@ -1,0 +1,11 @@
+<map id="src/engine/ui/widgets/Combobox.hxx" name="src/engine/ui/widgets/Combobox.hxx">
+<area shape="rect" id="node2" href="$UIManager_8hxx.html" title="src/engine/UIManager.hxx" alt="" coords="531,102,722,129"/>
+<area shape="rect" id="node10" href="$Combobox_8cxx.html" title="src/engine/ui/widgets\l/Combobox.cxx" alt="" coords="747,95,907,136"/>
+<area shape="rect" id="node3" href="$EventManager_8hxx.html" title="src/engine/EventManager.hxx" alt="" coords="252,191,465,218"/>
+<area shape="rect" id="node6" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="469,273,579,300"/>
+<area shape="rect" id="node7" href="$ButtonGroup_8cxx.html" title="src/engine/ui/basics\l/ButtonGroup.cxx" alt="" coords="551,184,702,225"/>
+<area shape="rect" id="node8" href="$Layout_8cxx.html" title="src/engine/ui/basics\l/Layout.cxx" alt="" coords="726,184,877,225"/>
+<area shape="rect" id="node9" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="901,191,1091,218"/>
+<area shape="rect" id="node4" href="$Timer_8cxx.html" title="src/engine/basics/Timer.cxx" alt="" coords="5,273,208,300"/>
+<area shape="rect" id="node5" href="$EventManager_8cxx.html" title="src/engine/EventManager.cxx" alt="" coords="233,273,445,300"/>
+</map>

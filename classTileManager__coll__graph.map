@@ -1,0 +1,4 @@
+<map id="TileManager" name="TileManager">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; TileManager \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="16,175,209,281"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="52,5,173,112"/>
+</map>

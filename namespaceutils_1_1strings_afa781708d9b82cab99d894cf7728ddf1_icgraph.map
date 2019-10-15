@@ -1,0 +1,4 @@
+<map id="utils::strings::startsWith" name="utils::strings::startsWith">
+<area shape="rect" id="node2" href="$namespaceutils.html#a36536812767e08111caf7ad382071e14" title="Helper function for Reverse template because c++11 does not support template deduction. " alt="" coords="249,5,407,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="231,57,425,98"/>
+</map>

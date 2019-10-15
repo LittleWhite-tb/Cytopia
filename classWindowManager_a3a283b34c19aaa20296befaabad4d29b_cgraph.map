@@ -1,0 +1,5 @@
+<map id="WindowManager::WindowManager" name="WindowManager::WindowManager">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="607,28,757,69"/>
+<area shape="rect" id="node3" href="$classWindowManager.html#a5ad60806695b35cb347de8cab4ac93ab" title="pointer to the SDL_Renderer " alt="" coords="332,28,527,69"/>
+<area shape="rect" id="node4" href="$classWindowManager.html#a92e1efc564e88b5d92ef674c2577997f" title="sets the game&#39;s window mode Changes the game&#39;s window mode to fullscreen, borderless, or windowed " alt="" coords="300,94,559,121"/>
+</map>

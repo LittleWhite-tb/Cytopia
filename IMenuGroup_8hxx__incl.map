@@ -1,0 +1,13 @@
+<map id="src/engine/ui/menuGroups/IMenuGroup.hxx" name="src/engine/ui/menuGroups/IMenuGroup.hxx">
+<area shape="rect" id="node2" href="$UIElement_8hxx.html" title="../basics/UIElement.hxx" alt="" coords="535,319,710,345"/>
+<area shape="rect" id="node20" href="$ButtonGroup_8hxx.html" title="../basics/ButtonGroup.hxx" alt="" coords="591,95,780,121"/>
+<area shape="rect" id="node4" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="43,393,216,420"/>
+<area shape="rect" id="node5" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="391,393,585,420"/>
+<area shape="rect" id="node13" href="$WindowManager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="687,393,868,420"/>
+<area shape="rect" id="node15" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="1017,393,1175,420"/>
+<area shape="rect" id="node9" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="405,468,534,495"/>
+<area shape="rect" id="node10" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="469,543,571,569"/>
+<area shape="rect" id="node12" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="730,543,841,569"/>
+<area shape="rect" id="node21" href="$Button_8hxx.html" title="../widgets/Button.hxx" alt="" coords="488,169,648,196"/>
+<area shape="rect" id="node22" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="508,244,585,271"/>
+</map>
